@@ -1,0 +1,15 @@
+.bg-dark {
+    background-color: #10171e;
+}
+.bg-dark-secondary {
+    background-color: #38444d;
+}
+.box-tweet {
+    padding: 10px 5px 10px 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px 5px;
+}
+.action:hover {
+    cursor: pointer;
+}
